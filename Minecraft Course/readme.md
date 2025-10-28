@@ -1,1 +1,1 @@
-# This repo will contain around 40 branches. Each branch is for each classes. So visit the branch respective to your class and access the codes, explanations and all the resources related to the class.
+### This repo will contain around 40 branches. Each branch is for each classes. So visit the branch respective to your class and access the codes, explanations and all the resources related to the class.
